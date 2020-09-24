@@ -5,6 +5,7 @@ wifi_encryption=wpa
 ssid_name=Reg424AP102
 wpa_password=RegTemp1995!
 browser=chrome
+kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/master/Kiosk%20Config%209242020.txt
 disable_address_bar=yes
 homepage=https://www.regalstaffing.com/portal|https://wotc.adp.com/?regalstaffing
 session_idle=5
