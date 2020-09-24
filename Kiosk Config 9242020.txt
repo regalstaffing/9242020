@@ -11,6 +11,6 @@ homepage=https://www.regalstaffing.com/portal|https://wotc.adp.com/?regalstaffin
 session_idle=5
 allow_popup_windows=yes
 shutdown_combination=yes
-whitelist=applyregal.com regalstaffing.com avionte.regalstaffing.com avionte.com tcs.adp.com wotc.adp.com benfits.verisourcesvc.com verisourcesvc.com globalcashcard.com uscis.gov irs.com irs.gov maps.google.com google.com/maps rts.avionte.com rts.aviontego.com aviontego.com-Avionte.rdp myavionte.com hire.myavionte.com indeed.com secure.na2.echosign.com echosign.com yahoo.com https://www.yahoo.com http://yahoo.com
+whitelist=applyregal.com regalstaffing.com avionte.regalstaffing.com avionte.com tcs.adp.com wotc.adp.com benfits.verisourcesvc.com verisourcesvc.com globalcashcard.com uscis.gov irs.com irs.gov maps.google.com google.com/maps rts.avionte.com rts.aviontego.com aviontego.com-Avionte.rdp myavionte.com hire.myavionte.com indeed.com secure.na2.echosign.com echosign.com yahoo.com
 additional_components=uefi.zip
 
