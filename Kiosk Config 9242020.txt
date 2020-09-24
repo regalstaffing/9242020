@@ -5,7 +5,7 @@ wifi_encryption=wpa
 ssid_name=Reg424AP102
 wpa_password=RegTemp1995!
 browser=chrome
-kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/regalstaffing-patch-1/Kiosk%20Config%209242020.txt
+kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/regalstaffing-patch-FTW/Kiosk%20Config%209242020.txt
 disable_address_bar=yes
 homepage=https://www.regalstaffing.com/portal|https://wotc.adp.com/?regalstaffing|yahoo.com
 session_idle=5
@@ -14,3 +14,4 @@ shutdown_combination=yes
 whitelist=applyregal.com regalstaffing.com avionte.regalstaffing.com avionte.com tcs.adp.com wotc.adp.com benfits.verisourcesvc.com verisourcesvc.com globalcashcard.com uscis.gov irs.com irs.gov maps.google.com google.com/maps rts.avionte.com rts.aviontego.com aviontego.com-Avionte.rdp myavionte.com hire.myavionte.com indeed.com secure.na2.echosign.com echosign.com yahoo.com
 additional_components=uefi.zip
 
+# test FTW
