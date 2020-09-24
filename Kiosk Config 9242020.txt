@@ -1,0 +1,15 @@
+connection=wifi
+network_interface=wlan0
+dhcp=yes
+wifi_encryption=wpa
+ssid_name=Reg424AP102
+wpa_password=RegTemp1995!
+browser=chrome
+disable_address_bar=yes
+homepage=https://www.regalstaffing.com/portal|https://wotc.adp.com/?regalstaffing
+session_idle=5
+allow_popup_windows=yes
+shutdown_combination=yes
+whitelist=applyregal.com regalstaffing.com avionte.regalstaffing.com avionte.com tcs.adp.com wotc.adp.com benfits.verisourcesvc.com verisourcesvc.com globalcashcard.com uscis.gov irs.com irs.gov maps.google.com google.com/maps rts.avionte.com rts.aviontego.com aviontego.com-Avionte.rdp myavionte.com hire.myavionte.com indeed.com secure.na2.echosign.com echosign.com 
+additional_components=uefi.zip
+
