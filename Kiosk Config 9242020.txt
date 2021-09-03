@@ -1,3 +1,4 @@
+kernel_parameters=boot_from_usb
 connection=wifi
 network_interface=wlan0
 dhcp=yes
