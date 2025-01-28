@@ -6,7 +6,7 @@ ssid_name=RegFtw
 wpa_password=Regal24!
 browser=chrome
 disable_address_bar=yes
-homepage=https://www.youtube.com/watch?v=NlprozGcs80&pp=ygUKY2Fub24gaW4gRA%3D%3D&autoplay=1&loop=1 | https://www.regalstaffing.com/portal
+homepage=https://www.youtube.com/watch?v=k1n5ECgByxY&autoplay=1&loop=1 | https://www.regalstaffing.com/portal
 session_idle=5
 allow_popup_windows=yes
 shutdown_combination=yes
