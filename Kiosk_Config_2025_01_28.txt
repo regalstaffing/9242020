@@ -5,6 +5,7 @@ wifi_encryption=wpa
 ssid_name=RegFtw
 wpa_password=Regal24!
 browser=chrome
+kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/refs/heads/regalstaffing-patch-youtube/Kiosk_Config_2025_01_28.txt
 disable_address_bar=yes
 homepage=https://www.youtube.com/watch?v=k1n5ECgByxY&autoplay=1&loop=1 | https://www.regalstaffing.com/portal
 session_idle=5
