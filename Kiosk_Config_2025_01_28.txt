@@ -7,7 +7,7 @@ wpa_password=Regal24!
 browser=chrome
 kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/refs/heads/regalstaffing-patch-youtube/Kiosk_Config_2025_01_28.txt
 disable_address_bar=yes
-homepage=https://www.regalstaffing.com/portal | https://infinitelooper.tube/?videoId=k1n5ECgByxY&start=0&end=340&rate=1&timestamp=1738089733000
+homepage=https://www.regalstaffing.com/portal | https://infinitelooper.tube/?videoId=k1n5ECgByxY&start=0&end=340&rate=1&timestamp=1738089733000 | https://www.youtube.com/watch?v=k1n5ECgByxY
 session_idle=5
 allow_popup_windows=yes
 shutdown_combination=yes
