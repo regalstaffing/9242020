@@ -8,9 +8,9 @@ browser=chrome
 kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/refs/heads/regalstaffing-patch-youtube/Kiosk_Config_2025_01_28.txt
 disable_address_bar=yes
 homepage=https://www.regalstaffing.com/portal | https://infinitelooper.tube/?videoId=k1n5ECgByxY&start=0&end=340&rate=1&timestamp=1738089733000 | https://www.youtube.com/watch?v=k1n5ECgByxY
-session_idle=5
+session_idle=6
 allow_popup_windows=yes
 shutdown_combination=yes
-whitelist=applyregal.com regalstaffing.com avionte.regalstaffing.com avionte.com tcs.adp.com wotc.adp.com benfits.verisourcesvc.com verisourcesvc.com globalcashcard.com uscis.gov irs.com irs.gov maps.google.com google.com/maps rts.avionte.com rts.aviontego.com aviontego.com-Avionte.rdp myavionte.com hire.myavionte.com indeed.com secure.na2.echosign.com echosign.com youtube.com infinitelooper.tube
+whitelist=applyregal.com regalstaffing.com avionte.regalstaffing.com avionte.com tcs.adp.com wotc.adp.com benfits.verisourcesvc.com verisourcesvc.com globalcashcard.com uscis.gov irs.com irs.gov maps.google.com google.com/maps rts.avionte.com rts.aviontego.com aviontego.com-Avionte.rdp myavionte.com hire.myavionte.com indeed.com secure.na2.echosign.com echosign.com infinitelooper.tube
 additional_components=uefi.zip
 
