@@ -5,7 +5,7 @@ wifi_encryption=wpa
 ssid_name=Reg424AP102
 wpa_password=RegTemp1995!
 browser=chrome
-kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/regalstaffing-patch-FTW/Kiosk%20Config%209242020.txt
+kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/refs/heads/regalstaffing-patch-YouTube25/Kiosk%20Config%209242020.txt
 disable_address_bar=yes
 homepage=https://www.regalstaffing.com/portal|https://infinitelooper.tube/?videoId=6ah4yixGWc4&start=0&end=351.3&rate=1&timestamp=1758116636318|https://infinitelooper.tube/?videoId=uCD2Qir8d_w&start=0&end=2136&rate=1&timestamp=1738784682817
 session_idle=600
@@ -15,5 +15,6 @@ whitelist=applyregal.com regalstaffing.com avionte.regalstaffing.com regal.myavi
 additional_components=uefi.zip
 
 # test FTW
+
 
 
