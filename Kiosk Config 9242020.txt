@@ -7,7 +7,7 @@ wpa_password=RegTemp1995!
 browser=chrome
 kiosk_config=https://raw.githubusercontent.com/regalstaffing/9242020/regalstaffing-patch-ARL/Kiosk%20Config%209242020.txt
 disable_address_bar=yes
-homepage=https://www.regalstaffing.com/portal|https://infinitelooper.tube/?videoId=k1n5ECgByxY&start=0&end=340&rate=1&timestamp=1738089733000|https://infinitelooper.tube/?videoId=uCD2Qir8d_w&start=0&end=2136&rate=1&timestamp=1738784682817
+homepage=https://www.regalstaffing.com/portal|https://infinitelooper.tube/?videoId=6ah4yixGWc4&start=0&end=351.3&rate=1&timestamp=1758116636318|https://infinitelooper.tube/?videoId=uCD2Qir8d_w&start=0&end=2136&rate=1&timestamp=1738784682817
 session_idle=600
 allow_popup_windows=yes
 shutdown_combination=yes
@@ -15,3 +15,4 @@ whitelist=regal.myavionte.com applyregal.com regalstaffing.com avionte.regalstaf
 additional_components=uefi.zip
 
 # Arlington Config
+
